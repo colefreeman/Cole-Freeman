@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# **DATA SCIENCE PORTFOLIO OF COLE FREEMAN**
 
 You can use the [editor on GitHub](https://github.com/colefreeman/cole_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
