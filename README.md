@@ -1,5 +1,10 @@
 ## **Project One: Call Center Forecast**
 
+* Created a tool that forecasts call center data gathered from Kaggle to increase efficiencies in Call Center Operaions
+* Engineered features to increase Mean Squared Error score for future forecast
+* Optimized LightGBM Regressor to forecast Daily Calls
+* Built client dashboard in Tableau Public to visualy display timeseries forecast and other KPIs
+
 You can use the [editor on GitHub](https://github.com/colefreeman/cole_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
