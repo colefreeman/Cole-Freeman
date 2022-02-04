@@ -18,6 +18,9 @@ A common business problem for busy call centers are call volume peaks and valley
 
 The data was collected from the Kaggle website and and is titled Call Center Data. The data is aggregated by day and contains number of calls recieved, answered, dropped and additional aggregation of ratios based on these call types. The data consists of 1251 days of data, but does not contain a date for the aggregated call data. The prepared dataset **be sure to link prepared dataset** in the Github repository contains a full dataset with dates joined to the original dataset. 
 
+## **Data Analysis:**
+
+
 
 #### **Pearson's Correlation Matrix**
 
